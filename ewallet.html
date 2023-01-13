@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KikoCell | E-Wallet</title>
+    <link rel="shortcut icon" href="images/kikocell.svg" type="image/x-icon">
+    <link rel="stylesheet" href="style_ewallet.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="container-wrapper">
+            <!-- Header -->
+            <div class="header">
+                <div class="brand-title" onclick="history.back()">
+                    <img src="images/building-store.svg" alt="building store">
+                    <h4>KikoCell</h4>
+                </div>
+                <p>/E-Wallet <span class="ewallet-type">[Jenis]</span></p>
+            </div>
+
+            <!-- Content -->
+            <div class="content">
+                <section id="list-data"></section>
+            </div>
+        </div>
+    </div>
+
+    <!-- Popup Dialog -->
+    <div class="dialog-wrapper">
+        <div class="dialog-card">
+            <div class="icon">
+                <img src="images/shopping-cart-plus.svg" alt="shopping cart">
+            </div>
+            <p>PESANAN</p>
+            <p>Detail</p>
+            <p class="detail">[kosong]</p>
+            <p>No. <span id="ewallet">[E-Wallet]</span><span>*</span></p>
+            <input type="tel" name="wa-number" id="wa-number" placeholder="Ketik nomor">
+            <div class="action">
+                <div class="btn-cancel">
+                    <p>BATAL</p>
+                </div>
+                <div class="btn-send">
+                    <p>KIRIM</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        <p id="copyright">Copyright ©[Year] KikoCell. All Rights Reserved</p>
+    </div>
+
+    <!-- Script Links -->
+    <script src="script_ewallet.js"></script>
+</body>
+</html>

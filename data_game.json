@@ -1,0 +1,45 @@
+{
+    "mobilelegend":[
+        { "product":"DML30", "description":"28 Diamond ML", "price":"Rp 10.000" },
+        { "product":"DML45", "description":"44 Diamond ML", "price":"Rp 14.000" },
+        { "product":"DML67", "description":"67 Diamond ML", "price":"Rp 19.000" },
+        { "product":"DML85", "description":"85 Diamond ML", "price":"Rp 21.000" },
+        { "product":"DML169", "description":"169 Diamond ML", "price":"Rp 41.000" },
+        { "product":"DML282", "description":"282 Diamond ML", "price":"Rp 67.000" },
+        { "product":"DML345", "description":"345 Diamond ML", "price":"Rp 82.000" },
+        { "product":"DML702", "description":"702 Diamond ML", "price":"Rp 157.000" },
+        { "product":"DML875", "description":"875 Diamond ML", "price":"Rp 194.000" }
+    ],
+    "pubgmobile":[
+        { "product":"PUBG7", "description":"PUBG Mobile 35UC", "price":"Rp 9.000" },
+        { "product":"PUBG10", "description":"PUBG Mobile 50UC", "price":"Rp 11.000" },
+        { "product":"PUBG14", "description":"PUBG Mobile 70UC", "price":"Rp 16.000" },
+        { "product":"PUBG30", "description":"PUBG Mobile 150UC", "price":"Rp 30.000" },
+        { "product":"PUBG42", "description":"PUBG Mobile 210UC", "price":"Rp 42.000" },
+        { "product":"PUBG50", "description":"PUBG Mobile 250UC", "price":"Rp 47.000" },
+        { "product":"PUBG100", "description":"PUBG Mobile 500UC", "price":"Rp 93.000" },
+        { "product":"PUBG140", "description":"PUBG Mobile 700UC", "price":"Rp 134.000" }
+    ],
+    "callofduty":[
+        { "product":"COD31", "description": "COD Mobile 31CP", "price": "Rp 7.000" },
+        { "product":"COD62", "description": "COD Mobile 62CP", "price": "Rp 12.000" },
+        { "product":"COD127", "description": "COD Mobile 127CP", "price": "Rp 21.000" },
+        { "product":"COD317", "description": "COD Mobile 317CP", "price": "Rp 50.000" },
+        { "product":"COD634", "description": "COD Mobile 634CP", "price": "Rp 99.000" },
+        { "product":"COD1373", "description": "COD Mobile 1373CP", "price": "Rp 196.000" }
+    ],
+    "freefire":[
+        { "product":"PFF20", "description": "20 Diamond FF", "price": "Rp 5.000" },
+        { "product":"PFF50", "description": "50 Diamond FF", "price": "Rp 9.000" },
+        { "product":"PFF80", "description": "80 Diamond FF", "price": "Rp 13.000" },
+        { "product":"PFF150", "description": "150 Diamond FF", "price": "Rp 22.000" },
+        { "product":"PFF210", "description": "210 Diamond FF", "price": "Rp 29.000" },
+        { "product":"PFF375", "description": "375 Diamond FF", "price": "Rp 50.000" },
+        { "product":"PFF425", "description": "425 Diamond FF", "price": "Rp 56.000" },
+        { "product":"PFF510", "description": "510 Diamond FF", "price": "Rp 68.000" },
+        { "product":"PFF635", "description": "635 Diamond FF", "price": "Rp 84.000" },
+        { "product":"PFF790", "description": "790 Diamond FF", "price": "Rp 102.000" },
+        { "product":"PFF930", "description": "930 Diamond FF", "price": "Rp 120.000" },
+        { "product":"PFF1075", "description": "1075 Diamond FF", "price": "Rp 138.000" }
+    ]
+}

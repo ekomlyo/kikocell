@@ -1,0 +1,68 @@
+{
+    "smartfren":[
+        { "product":"PSM5", "description":"Pulsa 5000", "price":"Rp 7.000" },
+        { "product":"PSM10", "description":"Pulsa 10000", "price":"Rp 12.000" },
+        { "product":"PSM20", "description":"Pulsa 20000", "price":"Rp 22.000" },
+        { "product":"PSM25", "description":"Pulsa 25000", "price":"Rp 27.000" },
+        { "product":"PSM30", "description":"Pulsa 30000", "price":"Rp 32.000" },
+        { "product":"PSM50", "description":"Pulsa 50000", "price":"Rp 52.000" },
+        { "product":"PSM60", "description":"Pulsa 60000", "price":"Rp 62.000" },
+        { "product":"PSM75", "description":"Pulsa 75000", "price":"Rp 77.000" },
+        { "product":"PSM100", "description":"Pulsa 100000", "price":"Rp 102.000" }
+    ],
+    "indosatooredoo":[
+        { "product":"IP5", "description":"Pulsa 5000", "price":"Rp 7.000" },
+        { "product":"IP10", "description":"Pulsa 10000", "price":"Rp 12.000" },
+        { "product":"IP20", "description":"Pulsa 20000", "price":"Rp 22.000" },
+        { "product":"IP25", "description":"Pulsa 25000", "price":"Rp 27.000" },
+        { "product":"IP30", "description":"Pulsa 30000", "price":"Rp 32.000" },
+        { "product":"IP50", "description":"Pulsa 50000", "price":"Rp 52.000" },
+        { "product":"IP100", "description":"Pulsa 100000", "price":"Rp 102.000" }
+    ],
+    "xl": [
+        { "product":"XP5", "description": "Pulsa 5000", "price": "Rp 7.000" },
+        { "product":"XP10", "description": "Pulsa 10000", "price": "Rp 12.000" },
+        { "product":"XP15", "description": "Pulsa 15000", "price": "Rp 17.000" },
+        { "product":"XP25", "description": "Pulsa 25000", "price": "Rp 27.000" },
+        { "product":"XP30", "description": "Pulsa 30000", "price": "Rp 32.000" },
+        { "product":"XP50", "description": "Pulsa 50000", "price": "Rp 52.000" },
+        { "product":"XP100", "description": "Pulsa 100000", "price": "Rp 102.000" }
+    ],
+    "axis": [
+        { "product":"AXP5", "description": "Pulsa 5000", "price": "Rp 7.000" },
+        { "product":"AXP10", "description": "Pulsa 10000", "price": "Rp 12.000" },
+        { "product":"AXP15", "description": "Pulsa 15000", "price": "Rp 17.000" },
+        { "product":"AXP25", "description": "Pulsa 25000", "price": "Rp 27.000" },
+        { "product":"AXP30", "description": "Pulsa 30000", "price": "Rp 32.000" },
+        { "product":"AXP50", "description": "Pulsa 50000", "price": "Rp 52.000" },
+        { "product":"AXP100", "description": "Pulsa 100000", "price": "Rp 102.000" }
+    ],
+    "telkomsel": [
+        { "product":"SP5", "description": "Pulsa 5000", "price": "Rp 7.000" },
+        { "product":"SP10", "description": "Pulsa 10000", "price": "Rp 12.000" },
+        { "product":"SP15", "description": "Pulsa 15000", "price": "Rp 17.000" },
+        { "product":"SP20", "description": "Pulsa 20000", "price": "Rp 22.000" },
+        { "product":"SP25", "description": "Pulsa 25000", "price": "Rp 27.000" },
+        { "product":"SP30", "description": "Pulsa 30000", "price": "Rp 32.000" },
+        { "product":"SP35", "description": "Pulsa 35000", "price": "Rp 37.000" },
+        { "product":"SP40", "description": "Pulsa 40000", "price": "Rp 42.000" },
+        { "product":"SP45", "description": "Pulsa 45000", "price": "Rp 47.000" },
+        { "product":"SP50", "description": "Pulsa 50000", "price": "Rp 52.000" },
+        { "product":"SP55", "description": "Pulsa 55000", "price": "Rp 57.000" },
+        { "product":"SP60", "description": "Pulsa 60000", "price": "Rp 62.000" },
+        { "product":"SP65", "description": "Pulsa 65000", "price": "Rp 67.000" },
+        { "product":"SP70", "description": "Pulsa 70000", "price": "Rp 72.000" },
+        { "product":"SP75", "description": "Pulsa 75000", "price": "Rp 77.000" },
+        { "product":"SP80", "description": "Pulsa 80000", "price": "Rp 82.000" },
+        { "product":"SP85", "description": "Pulsa 85000", "price": "Rp 87.000" },
+        { "product":"SP90", "description": "Pulsa 90000", "price": "Rp 92.000" },
+        { "product":"SP95", "description": "Pulsa 95000", "price": "Rp 97.000" },
+        { "product":"SP100", "description": "Pulsa 100000", "price": "Rp 102.000" }
+    ],
+    "tokenpln":[
+        { "product":"PMR20", "description":"PLN 20000", "price":"Rp 22.000" },
+        { "product":"PMR50", "description":"PLN 50000", "price":"Rp 52.000" },
+        { "product":"PMR100", "description":"PLN 100000", "price":"Rp 102.000" },
+        { "product":"PMR200", "description":"PLN 200000", "price":"Rp 202.000" }
+    ]
+}
